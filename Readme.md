@@ -50,9 +50,9 @@ The analysis is performed on `placement.xls` (or `placement.csv`), containing **
 
 ---
 
-## 💻 How to Run
+## 💻 How to Run / Execution Steps
 
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/subhanshafique871-a11y/student-placement-prediction.git](https://github.com/subhanshafique871-a11y/student-placement-prediction.git)
+cd student-placement-prediction
